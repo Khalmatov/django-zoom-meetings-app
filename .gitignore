@@ -1,0 +1,6 @@
+__pycache__
+_config.py
+config.py
+
+/venv/
+migrations
